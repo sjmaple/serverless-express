@@ -32,7 +32,7 @@
     "aws-lambda": "^1.0.6",
     "aws-lambda-fastify": "^1.4.4",
     "reflect-metadata": "^0.1.13",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.3.1",
     "rxjs": "^6.6.3"
   },
   "devDependencies": {
